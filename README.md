@@ -1,6 +1,8 @@
 # EonTest
 Part two of Eon Labs coding test
 
+*You must have pandas, pathlib, and pytrends libraries installed on your computer for this code to work.*
+
 1. The idea behind this challenge was relatively simple (especially considering the hint provided).
 I've had plenty of experience in gathering data online so I knew the pytrends library would be
 the library to use for this task. I knew I could use keywords and dates with pytrends and outsource the
