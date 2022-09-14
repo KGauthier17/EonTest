@@ -18,6 +18,6 @@ library.
 solution considering the guts of the code are hidden in the library.
 
 5. To run this file, you must download the python file on your own computer and have python3 installed. Once downloaded, 
-open your command line/terminal and call python3 followed by the name of the python file. i.e. "python3 Eon.py". Once run,
-there should be a new csv file saved to the same directory as the "Eon.py" file. This is a two column csv file consisting of
+open your command line/terminal and call python3 followed by the full path of the python file. i.e. "python3 /home/dir/dir/Eon.py". 
+Once run, there should be a new csv file saved to the same directory as the "Eon.py" file. This is a two column csv file consisting of
 the dates and frequency of bitcoin searches across Google.
